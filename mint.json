@@ -1,9 +1,10 @@
 {
   "$schema": "https://mintlify.com/schema.json",
   "name": "IDHosting Docs",
+  "theme": "quill",
   "logo": {
-    "dark": "https://idhosting.dk/wp-content/uploads/2022/09/IDH-logo.png",
-    "light": "https://idhosting.dk/wp-content/uploads/2022/09/cropped-IDHosting.dk23.png"
+    "dark": "https://idhosting.dk/wp-content/uploads/2022/06/IDH_logo2-1.png",
+    "light": "https://idhosting.dk/wp-content/uploads/2022/07/IDHOsting-Black.png"
   },
   "favicon": "https://idhosting.dk/wp-content/uploads/2022/09/IDH-logo.png",
   "colors": {
